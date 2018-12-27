@@ -2,7 +2,7 @@
 layout: post
 title: C언어 알고리즘 대회용 Stack Class
 date: 2018-12-27 23:39:00
-category: [algorithm]
+category: algorithm
 tag: [algorithm, c/c++, datastructure]
 ---
 C언어 알고리즘 대회용 Stack Class이다.
