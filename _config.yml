@@ -50,7 +50,7 @@ nav:
     - { Python: '/blog/categories/#python' }
     
     - { Algorithm : '/blog/categories/#Algorithm' }
-    - { Etc: '/blog/categories/#기타' }
+    - { etc: '/blog/categories/#etc' }
     
   Tags: 
     - '/blog/tags/'
