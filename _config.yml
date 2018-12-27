@@ -41,17 +41,21 @@ nav:
   Categories:
     - '/blog/categories/'
     # - { Categories All: '/blog/categories/' }
-    - { Linux: '/blog/categories/#linux' }
+    # - { Linux: '/blog/categories/#linux' }
 
     - { Android: '/blog/categories/#android' }
+
     - { Java: '/blog/categories/#java' }
-    - { C++: '/blog/categories/#c' }
+    - { C/C++: '/blog/categories/#C/C++' }
     - { Python: '/blog/categories/#python' }
     
-    - { 알고리즘: '/blog/categories/#알고리즘' }
-    - { 개발상식: '/blog/categories/#개발상식' }
+    - { Algorithm : '/blog/categories/#Algorithm' }
+    - { Etc: '/blog/categories/#기타' }
     
   Tags: 
+    - '/blog/tags/'
+
+  Search :
     - '/blog/tags/'
 
   About:
