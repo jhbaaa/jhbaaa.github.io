@@ -14,9 +14,19 @@ Maven을 설치하기 전에 먼저 Java가 설치되어 있어야 합니다.
 
 Maven 다운로드는 [여기](https://maven.apache.org/download.cgi)에서 할 수 있습니다.
 
-<pre class="prettyprint">
-$ wget http://apache.tt.co.kr/maven/maven-3/3.5.2/binaries/apache-maven-3.5.2-bin.tar.gz
-</pre>
+```cpp
+#include <stdio.h>
+int main() {
+    return 0;
+}
+```
+
+```shell
+tar -xvzf apache-maven-3.5.2-bin.tar.gz
+sudo mv apache-maven-3.5.2 /usr/local/maven
+sudo ln -s /usr/local/maven/bin/mvn /usr/bin/mvn
+```
+
 
 <br>
 
