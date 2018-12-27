@@ -71,7 +71,7 @@ hero:
 
 # Pugl-In
 mathjax: true
-google_analytics_token: 'UA-112390680-1'
+google_analytics_token: 'UA-131296122-1'
 disqus_short_name: 'jhbaaas-blog'
 
 # deployment
