@@ -1,11 +1,11 @@
 ---
 layout: post
-title: C언어 알고리즘 대회용 Stack Class
+title: C++ 알고리즘 대회용 자료구조 - Stack
 date: 2018-12-27 23:39:00
 category: algorithm
 tag: [algorithm, c/c++, datastructure]
 ---
-C언어 알고리즘 대회용 Stack Class이다.
+C++ 알고리즘 대회용으로 작성한 Stack Class다.
 
 STACK_MAX 값은 알아서 잘 바꿔줄 것
 
