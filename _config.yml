@@ -43,13 +43,13 @@ nav:
     # - { Categories All: '/blog/categories/' }
     # - { Linux: '/blog/categories/#linux' }
 
-    - { Android: '/blog/categories/#android' }
+    - { android: '/blog/categories/#android' }
 
-    - { Java: '/blog/categories/#java' }
-    - { C/C++: '/blog/categories/#C/C++' }
-    - { Python: '/blog/categories/#python' }
+    - { java: '/blog/categories/#java' }
+    - { c/c++: '/blog/categories/#C/C++' }
+    - { python: '/blog/categories/#python' }
     
-    - { Algorithm : '/blog/categories/#Algorithm' }
+    - { algorithm : '/blog/categories/#algorithm' }
     - { etc: '/blog/categories/#etc' }
     
   Tags: 
