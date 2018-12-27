@@ -1,11 +1,11 @@
 ---
 layout: post
-title: C++ 알고리즘 대회용 자료구조 - Heap
+title: C++ 알고리즘 문제풀이용 자료구조 - Heap
 date: 2018-12-28 01:50:00
 category: algorithm
 tag: [algorithm, c/c++, datastructure]
 ---
-C++ 알고리즘 대회용으로 작성한 Heap Class다.
+C++ 알고리즘 문제풀이용으로 작성한 Heap Class다.
 
 빠른 속도를 위해 배열로 짰고, Min, Max Heap 둘다 지원 한다.
 
