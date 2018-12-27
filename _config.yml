@@ -63,7 +63,7 @@ category_page: '/blog/categories/'
 
 hero:
   image: /public/img/hello.jpg
-  caption: what is hero;
+  caption: 어서오세요! jhbaaa의 블로그 입니다 :)
 
 # Pugl-In
 mathjax: true
