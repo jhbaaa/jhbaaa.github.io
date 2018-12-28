@@ -1,7 +1,7 @@
 ---
 layout: post
-title: C++ 알고리즘 문제풀이용 알고리즘 - Heap Sort
-date: 2018-12-28 01:50:00
+title: C++ 알고리즘 문제풀이용 알고리즘 - Merge Sort
+date: 2018-12-28 11:52:00
 category: algorithm
 tag: [algorithm, c/c++, sort]
 ---
