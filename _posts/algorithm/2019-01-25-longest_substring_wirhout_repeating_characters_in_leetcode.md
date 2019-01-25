@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [LeetCode] Longest Substring Without Repeating Characters
+title: Leetcode / Longest Substring Without Repeating Characters
 date: 2019-01-25 19:00:00
 category: algorithm
 tag: [algorithm, c/c++, leetcode]
